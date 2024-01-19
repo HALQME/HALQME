@@ -1,4 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halqme&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=halqme&show_icons=true&theme=tokyonight" />
 Swift
 
 
