@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=halqme&show_icons=true&theme=tokyonight" />  
 University Student;major in psychology;  
 Love Vivaldi Browser, Arc  
-Interested in Swift, mojo...
+Interested in Swift.
 
 
 <!--
