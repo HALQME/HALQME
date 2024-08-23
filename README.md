@@ -3,7 +3,7 @@
 University Student;major in psychology;  
 Interested in Swift.  
 
-- [Zenn](https://zenn.dev/halqme)
+- [Zenn](https://zenn.dev/hal227)
 - [Twitter( Now X )](https://twitter.com/halqme_dev)
 - [Gist](https://gist.github.com/HALQME)
 
